@@ -22,3 +22,10 @@ This project implements a **Database Management System (DBMS)** using **MySQL**.
 CREATE DATABASE project_db;
 USE project_db;
 
+ Execute the SQL file:
+mysql -u root -p project_db < database.sql
+
+
+
+
+
